@@ -1,0 +1,7 @@
+# Ignore .tmp files located in the repository root.
+/*.tmp
+
+# Ignore Python virtual environments and cache directories.
+.venv/
+__pycache__/
+.pytest_cache/
