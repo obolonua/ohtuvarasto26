@@ -1,3 +1,4 @@
 Ohtuvaraston inventaario
 - kirjat
 - muistiinpanot
+- kynät
